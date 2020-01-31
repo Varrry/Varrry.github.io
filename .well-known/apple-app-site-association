@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "797279Y9YX.ru.tachos.rschip",
+             "paths": [ "/otp" ]
+           }
+       ]
+   }
+}
