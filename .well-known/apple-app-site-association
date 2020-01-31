@@ -4,7 +4,13 @@
       "details": [
            {
              "appID": "797279Y9YX.ru.tachos.rschip",
-             "paths": [ "*" ]
+             "paths": [ "*" ],
+             "appIDs": [ "797279Y9YX.ru.tachos.rschip" ],
+             "components": [
+               {
+                  "/": "*"
+               }
+             ]
            }
        ]
    }
